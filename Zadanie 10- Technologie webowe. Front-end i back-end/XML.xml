@@ -1,0 +1,26 @@
+<zadanie_domowe>
+<osoby>
+<osoba>
+<ID>1</ID>
+<imię>Adam</imię>
+<nazwisko>Adamowski</nazwisko>
+<miejscowość>Lublin</miejscowość>
+<ulica>Malinowa</ulica>
+<budynek>100</budynek>
+<nr_mieszkania>5</nr_mieszkania>
+<nr_telefonu>123 456 789</nr_telefonu>
+<adres_mailowy>123@gmail.com</adres_mailowy>
+</osoba>
+<osoba>
+<ID>2</ID>
+<imię>Michał</imię>
+<nazwisko>Michałowski</nazwisko>
+<miejscowość>Katowice</miejscowość>
+<ulica>Helska</ulica>
+<budynek>10</budynek>
+<nr_mieszkania>52</nr_mieszkania>
+<nr_telefonu>789 456 123</nr_telefonu>
+<adres_mailowy>321@gmail.com</adres_mailowy>
+</osoba>
+</osoby>
+</zadanie_domowe>

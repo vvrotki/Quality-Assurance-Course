@@ -1,0 +1,30 @@
+{
+"zadanie_domowe": {
+"osoby": [
+{
+"ID": 1,
+"imię": "Adam",
+"nazwisko": "Adamowski",
+"miejscowość": "Lublin",
+"ulica": "Malinowa",
+"budynek": 100,
+"nr_mieszkania": 5,
+"nr_telefonu": "123 456 789",
+"adres_mailowy": "123@gmail.com"
+},
+{
+"ID": 2,
+"imię": "Michał",
+"nazwisko": "Michałowski",
+"miejscowość": "Katowice",
+"ulica": "Helska",
+"budynek": 10,
+"nr_mieszkania": 52,
+"nr_telefonu": "789 456 123",
+"adres_mailowy": "321@gmail.com"
+}
+]
+}
+}
+
+
